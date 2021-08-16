@@ -1,4 +1,4 @@
-import { TestEnum } from 'projects/w3k5/types/src/public_api';
+import { TestEnum } from 'w3k5/types';
 
 export interface ITest {
   a: boolean;
